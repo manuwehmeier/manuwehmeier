@@ -9,9 +9,10 @@ I am a front-end developer from Germany who is always eager to learn new things.
 - CSS, SCSS
 - HTML
 - Building Andorid apps in kotlin
+- Flutter, Dart
 
 ## Things I want to learn
 
-- Hybrid app development in Flutter
-- Game Development in Unreal Engine and C++
-- Rust and WebAssembly
+- UI/UX design
+- CI/CD setup
+- 3D modeling and printing
