@@ -1,6 +1,6 @@
 # Moin it's Manu! Welcome to my github profile
 
-I am a front-end developer from Germany who is always eager to learn new things. Currently it's hybrid app development which is on my plate.
+I am a front-end / mobile app developer from Germany who is always eager to learn new things.
 
 ## Things I know
 
